@@ -1,0 +1,9 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/melvin/Development/flutter
+FLUTTER_APPLICATION_PATH=/Users/melvin/Library/Mobile Documents/com~apple~CloudDocs/Programming/Flutter test/startup_namer
+FLUTTER_TARGET=/Users/melvin/Library/Mobile Documents/com~apple~CloudDocs/Programming/Flutter test/startup_namer/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/melvin/Development/flutter/bin/cache/artifacts/engine/ios-profile
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
